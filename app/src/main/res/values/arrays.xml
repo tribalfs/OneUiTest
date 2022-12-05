@@ -1,0 +1,40 @@
+<resources>
+
+
+    <string-array name="preferences_currency_entries">
+        <item>USD</item>
+        <item>CAD</item>
+        <item>PHP</item>
+    </string-array>
+    <string-array name="preferences_currency_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+
+    <string-array name="preferences_format_entries">
+        <item>"0,000.00"</item>
+        <item>"0 000.00</item>
+        <item>"0.000,00</item>
+        <item>"0 000,00</item>
+    </string-array>
+    <string-array name="preferences_format_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <array name="preferences_darkmode_entries_image">
+        <item>@drawable/display_help_light_mode</item>
+        <item>@drawable/display_help_dark_mode</item>
+    </array>
+    <string-array name="preferences_darkmode_entries">
+        <item>Light</item>
+        <item>Dark</item>
+    </string-array>
+    <string-array name="preferences_darkmode_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+</resources>
